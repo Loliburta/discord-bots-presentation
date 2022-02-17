@@ -1,0 +1,33 @@
+.slide2 {
+  color: white;
+  &__title {
+    font-size: 50px;
+  }
+  &__q1 {
+    font-size: 25px;
+    margin-bottom: 5px;
+    font-weight: 300;
+  }
+  &__a1 {
+    margin-top: 25px;
+    line-height: 30px;
+    font-size: 20px;
+  }
+  &__q2,
+  &__q2--hid {
+    margin-top: 30px;
+    font-size: 25px;
+    font-weight: 300;
+  }
+  &__q2--hid {
+    color: rgb(197, 184, 184);
+  }
+  &__a2,
+  &__a2--hid {
+    margin-top: 10px;
+    font-size: 20px;
+  }
+  &__a2--hid {
+    color: rgb(197, 184, 184);
+  }
+}

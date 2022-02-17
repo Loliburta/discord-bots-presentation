@@ -1,0 +1,50 @@
+.slide5 {
+  &__title {
+    font-size: 50px;
+  }
+  &__a1--hid {
+    color: rgb(197, 184, 184);
+  }
+  &__q1 {
+    font-size: 30px;
+    font-weight: 300;
+  }
+  &__subtitle {
+    font-size: 25px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-weight: 600;
+  }
+  color: white;
+  ::-webkit-scrollbar {
+    width: 0px;
+  }
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: transparent;
+  }
+
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: transparent;
+  }
+  &__code {
+    background-color: white;
+  }
+  .javascript {
+    display: flex;
+    align-items: flex-start;
+    text-align: left;
+  }
+}
+.code-wrapper {
+  height: 100px;
+}
+.reveal pre[data-auto-animate-target] {
+  max-height: 1000px;
+}

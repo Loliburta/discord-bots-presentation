@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400;500;600;700&family=Russo+One&display=swap");
+@import "./variables.scss";
+@import "./slides/slide1/slide1.scss";
+@import "./slides/slide2/slide2.scss";
+@import "./slides/slide3/slide3.scss";
+@import "./slides/slide4/slide4.scss";
+@import "./slides/slide5/slide5.scss";
+@import "./slides/slide6/slide6.scss";
+@import "./slides/slide7/slide7.scss";
+@import "./slides/slide8/slide8.scss";
+
+* {
+  font-family: $ff--roboto;
+}
+.backgrounds {
+  background-color: rgb(56, 48, 48);
+}
+.reveal pre[data-auto-animate-target] code {
+  height: auto;
+  max-height: 600px;
+}
+
+.code-wrapper {
+  height: auto;
+}

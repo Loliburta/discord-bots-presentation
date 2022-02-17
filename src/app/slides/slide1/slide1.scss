@@ -1,0 +1,16 @@
+.slide1 {
+  color: white;
+  &__title {
+    font-size: 50px;
+    font-family: $ff--roboto;
+    margin-bottom: 10px;
+  }
+  &__title2 {
+    font-size: 50px;
+    font-family: $ff--roboto;
+  }
+  &__q1 {
+    font-size: 35px;
+    font-weight: 300;
+  }
+}

@@ -1,0 +1,17 @@
+.slide6 {
+  color: white;
+  &__title {
+    font-size: 50px;
+  }
+  &__subtitle {
+    font-size: 30px;
+    margin-bottom: 10px;
+    font-weight: 300;
+  }
+
+  .javascript {
+    display: flex;
+    align-items: flex-start;
+    text-align: left;
+  }
+}

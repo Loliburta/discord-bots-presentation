@@ -1,0 +1,42 @@
+.slide4 {
+  color: white;
+  &__title {
+    font-size: 50px;
+  }
+  &__q1 {
+    font-size: 30px;
+    font-weight: 300;
+  }
+  &__subtitle {
+    font-size: 25px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-weight: 600;
+  }
+  &__a1 {
+    margin-top: 5px;
+    margin-bottom: 20px;
+
+    font-size: 20px;
+  }
+  &__a2 {
+    margin-bottom: 20px;
+    font-size: 20px;
+  }
+  &__a3 {
+    margin-bottom: 20px;
+    font-size: 20px;
+  }
+  &__newApp {
+    width: 300px;
+    height: auto;
+  }
+  &__scopes {
+    width: 800px;
+    height: auto;
+  }
+  &__url {
+    width: 800px;
+    height: auto;
+  }
+}
