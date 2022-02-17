@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/discord-bots-presentation/static/css/main.3d3bf9bd.css",
+    "main.js": "/discord-bots-presentation/static/js/main.9d42231e.js",
+    "static/media/scopes.png": "/discord-bots-presentation/static/media/scopes.44800b3882a0097c6196.png",
+    "static/media/newApp.png": "/discord-bots-presentation/static/media/newApp.55308579bee1fc43c9a9.png",
+    "static/media/token.png": "/discord-bots-presentation/static/media/token.0dd302a9032c0a84747d.png",
+    "static/media/url.png": "/discord-bots-presentation/static/media/url.95f540e37815af95be5a.png",
+    "index.html": "/discord-bots-presentation/index.html",
+    "main.3d3bf9bd.css.map": "/discord-bots-presentation/static/css/main.3d3bf9bd.css.map",
+    "main.9d42231e.js.map": "/discord-bots-presentation/static/js/main.9d42231e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d3bf9bd.css",
+    "static/js/main.9d42231e.js"
+  ]
+}
